@@ -7,5 +7,5 @@ date: March 2022
 
 **March 2022**
 
-* [Slides](files/2022_corh-205_slides.html)
-* [Speaker notes](files/2022_corh-205_notes.md)
+* Slides : [html](files/2022_corh-205_slides.html) : [pdf](files/2022_corh-205_slides.pdf)
+* Speaker notes : [html](files/2022_corh-205_notes.md) : [pdf](files/2022_corh-205_notes.pdf)
